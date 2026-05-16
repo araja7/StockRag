@@ -19,7 +19,7 @@ downloads the prebuilt Chroma vector store from a public Hugging Face dataset,
 and then launches the backend (port 8000) and frontend (port 5173).
 
 ```bash
-git clone https://github.com/jjivandas/CSE-5914-Capstone.git
+git clone https://github.com/araja7/StockRag.git
 cd CSE-5914-Capstone
 npm run cold-start
 ```
